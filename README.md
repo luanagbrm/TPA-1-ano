@@ -1,2 +1,2 @@
 # TPA-1-ano
-Repositório para armazenamento das atividades referentes ao 1° ano na matéria "TPA"
+Repositório para armazenamento das atividades do 1° ano referente a matéria "TPA"
